@@ -1,4 +1,4 @@
-# BioFUnK
+<h1 align="center">BioFUnK</h1>
 BioFUnK: a biomedical factuality-based uncertain knowledge graph
 
 # Description
